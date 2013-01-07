@@ -17,5 +17,5 @@ Gem::Specification.new do |s|
 
   s.add_dependency "rails", "~> 3.2"
   s.add_dependency "rails_admin", "~> 0.3.0"
-  s.add_dependency "globalize3", "0.2.0"
+  s.add_dependency "globalize3", "0.3.0"
 end
